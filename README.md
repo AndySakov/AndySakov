@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Obafemi Teminifeoluwa.
 
-<a href="https://wakatime.com/@d6e0b2a7-8833-4f8a-b4e6-9fd15c4135a4"><img src="https://wakatime.com/badge/user/d6e0b2a7-8833-4f8a-b4e6-9fd15c4135a4.svg" alt="Total time coded since Nov 3 2022" /></a>
+[![wakatime](https://wakatime.com/badge/user/d6e0b2a7-8833-4f8a-b4e6-9fd15c4135a4/project/b45a0b01-e180-4d4b-81e6-a96db028b5e6.svg)](https://wakatime.com/badge/user/d6e0b2a7-8833-4f8a-b4e6-9fd15c4135a4/project/b45a0b01-e180-4d4b-81e6-a96db028b5e6)
 [![Profile Visits](https://visitcount.itsvg.in/api?id=AndySakov&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ## :brain: About Me
