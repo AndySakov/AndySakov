@@ -22,6 +22,5 @@ I am always ready to learn new things and acquire new skills to get the job done
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=AndySakov&count_private=true&include_all_commits=true&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndySakov&layout=compact&count_private=true&" />
-  
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 </div>
-![AndySakov's GitHub Stats](https://raw.githubusercontent.com/AndySakov/AndySakov/main/github-metrics.svg) 
