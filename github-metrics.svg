@@ -1467,7 +1467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>higherkindness/mu-scala</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mu is a purely functional library for building RPC endpoint based services with support for RPC and HTTP/2</div>
@@ -1971,7 +1971,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2022, 18:12:03 (timezone Africa/Lagos) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 15 Nov 2022, 19:12:09 (timezone Africa/Lagos) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
