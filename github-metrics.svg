@@ -1291,7 +1291,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xerial/sbt-sonatype</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A sbt plugin for publishing Scala/Java projects to the Maven central.</div>
@@ -1963,7 +1963,7 @@ Sync</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2022, 12:07:02 (timezone Africa/Lagos) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 3 Dec 2022, 13:14:27 (timezone Africa/Lagos) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
