@@ -1339,7 +1339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sbt/sbt-native-packager</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">sbt Native Packager</div>
@@ -1983,7 +1983,7 @@ Fixed issue with trainee calendar and refactored some lint warnings on admin</di
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Dec 2022, 13:15:36 (timezone Africa/Lagos) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 9 Dec 2022, 14:17:04 (timezone Africa/Lagos) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
