@@ -1350,7 +1350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sbt/sbt-native-packager</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">sbt Native Packager</div>
@@ -2046,7 +2046,7 @@ added conditional rendering of environment</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Dec 2022, 13:14:41 (timezone Africa/Lagos) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 10 Dec 2022, 14:14:12 (timezone Africa/Lagos) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
