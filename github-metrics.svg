@@ -1371,7 +1371,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sbt/sbt-native-packager</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">sbt Native Packager</div>
@@ -2077,7 +2077,7 @@ Fixed issue of auth token not being sent</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2022, 13:16:23 (timezone Africa/Lagos) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 15 Dec 2022, 14:18:34 (timezone Africa/Lagos) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
