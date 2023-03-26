@@ -1995,7 +1995,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">04949fd4</span>
-                            <span class="code">src/temperatures/temperature.module.js</span>
+                            <span class="code">src/cities/city.module.js</span>
                             <span class="code"><span class="snippet additions">++11</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
@@ -2003,14 +2003,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,11 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">import { Module } from "@nestjs/common";<br /></span><span class="token prefix inserted">+</span><span class="token line">import { TemperatureController } from "./temperature.controller";<br /></span><span class="token prefix inserted">+</span><span class="token line">import { TemperatureService } from "./temperature.service";<br /></span><span class="token prefix inserted">+</span><span class="token line">import { PrismaService } from "../prisma/prisma.service";<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">@Module({<br /></span><span class="token prefix inserted">+</span><span class="token line"> imports: [],<br /></span><span class="token prefix inserted">+</span><span class="token line"> controllers: [TemperatureController],<br /></span><span class="token prefix inserted">+</span><span class="token line"> providers: [TemperatureService, PrismaService],<br /></span><span class="token prefix inserted">+</span><span class="token line">})<br /></span><span class="token prefix inserted">+</span><span class="token line">export class TemperatureModule {}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,11 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">import { Module } from "@nestjs/common";<br /></span><span class="token prefix inserted">+</span><span class="token line">import { CityController } from "./city.controller";<br /></span><span class="token prefix inserted">+</span><span class="token line">import { CityService } from "./city.service";<br /></span><span class="token prefix inserted">+</span><span class="token line">import { PrismaService } from "../prisma/prisma.service";<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">@Module({<br /></span><span class="token prefix inserted">+</span><span class="token line"> imports: [],<br /></span><span class="token prefix inserted">+</span><span class="token line"> controllers: [CityController],<br /></span><span class="token prefix inserted">+</span><span class="token line"> providers: [CityService, PrismaService],<br /></span><span class="token prefix inserted">+</span><span class="token line">})<br /></span><span class="token prefix inserted">+</span><span class="token line">export class CityModule {}</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Mar 2023, 14:10:58 (timezone Africa/Lagos) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 26 Mar 2023, 15:07:14 (timezone Africa/Lagos) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
