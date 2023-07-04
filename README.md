@@ -13,7 +13,7 @@ I'm an excellent verbal and written communicator with a strong background in cul
 
 I love languages and culture and have a strong desire to travel the world to meet new people and experience new things. I'm fluent in English and I have A2 proficiency in German, Spanish and Japanese.
 
-I am always ready to learn new things and acquire new skills to get the job done and, although I'm able to function in capacities relating to Mobile, Web and Backend development, over time, I have found that I do my best work when working with on the backend, developing APIs and microservices.
+I am always ready to learn new things and acquire new skills to get the job done and, although I'm able to function in capacities relating to Mobile, Web and Backend development, over time, I have found that I do my best work when working on the backend, developing APIs and microservices.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/obafemiteminife) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/obafemiteminife) [![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?logo=Instagram&logoColor=white)](https://instagram.com/andysakov) 
