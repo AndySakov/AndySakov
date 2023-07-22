@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="955" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1049" class="columns">
     <defs>
         <style/>
     </defs>
@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1145 Commits
+                            1147 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -169,12 +169,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="222.42187332662198" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="222.42187332662198" y="0" width="143.05845310257675" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="365.48032642919867" y="0" width="39.4111851264806" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="404.8915115556793" y="0" width="20.692055604343825" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="425.5835671600231" y="0" width="19.3604215306188" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="444.9439886906419" y="0" width="15.056011309358064" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="222.3916357138667" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="222.3916357138667" y="0" width="143.03900471810994" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="365.4306404319766" y="0" width="39.46836296390791" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="404.8990033958845" y="0" width="20.68924257900995" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="425.58824597489445" y="0" width="19.35778953710006" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="444.9460355119945" y="0" width="15.053964488005459" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -244,12 +244,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 33 commits)</small>
+                    <small class="h-details">(computed from last 35 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 33.0 characters per line of code written</li>
+                        <li>Has approximately 33.1 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -1521,6 +1521,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#9b18e6c</div>
+                                        <div class="message">fixed default</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AndySakov/caspade-site-demo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#232b28c</div>
+                                        <div class="message">fixed image scaling issues</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AndySakov/caspade-site-demo</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#0e23c9b</div>
                                         <div class="message">added freeze protocol</div>
                                     </div>
@@ -1576,46 +1616,6 @@
                                     <div class="commit">
                                         <div class="sha">#1509f88</div>
                                         <div class="message">added image preloading</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AndySakov/caspade-site-demo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#516548a</div>
-                                        <div class="message">switched to using snapshot</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AndySakov/caspade-site-demo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8461cc7</div>
-                                        <div class="message">added wait to reach max for queue</div>
                                     </div>
                                 </div>
                             </section>
@@ -1680,9 +1680,9 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">6a9ad6e1</span>
-                            <span class="code">src/neogma.constants.ts</span>
+                            <span class="code">.prettierrc</span>
                             <span class="code">
-                                <span class="snippet additions">++3</span>
+                                <span class="snippet additions">++11</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -1691,14 +1691,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,3 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">export const NEOGMA_MODULE_OPTIONS = "NeogmaModuleOptions";<br /></span><span class="token prefix inserted">+</span><span class="token line">export const NEOGMA_MODULE_ID = "NeogmaModuleId";<br /></span><span class="token prefix inserted">+</span><span class="token line">export const DEFAULT_CONNECTION_NAME = "default";</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,11 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{<br /></span><span class="token prefix inserted">+</span><span class="token line">"$schema": "http://json.schemastore.org/prettierrc",<br /></span><span class="token prefix inserted">+</span><span class="token line">"arrowParens": "avoid",<br /></span><span class="token prefix inserted">+</span><span class="token line">"bracketSpacing": true,<br /></span><span class="token prefix inserted">+</span><span class="token line">"endOfLine": "lf",<br /></span><span class="token prefix inserted">+</span><span class="token line">"printWidth": 80,<br /></span><span class="token prefix inserted">+</span><span class="token line">"singleQuote": false,<br /></span><span class="token prefix inserted">+</span><span class="token line">"tabWidth": 2,<br /></span><span class="token prefix inserted">+</span><span class="token line">"trailingComma": "all",<br /></span><span class="token prefix inserted">+</span><span class="token line">"useTabs": false<br /></span><span class="token prefix inserted">+</span><span class="token line">}</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2023, 11:07:46 (timezone Africa/Lagos) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 Jul 2023, 12:06:41 (timezone Africa/Lagos) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
