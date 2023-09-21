@@ -1802,7 +1802,7 @@ moved add github user functionality from backend service to github-user service<
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 359k out of 116m users</span>
+                                    <span class="gh">ranked 359k out of 120m users</span>
                                 </div>
                                 <div class="text">Published 67 public repositories</div>
                             </div>
@@ -2052,7 +2052,7 @@ moved add github user functionality from backend service to github-user service<
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Sept 2023, 09:11:35 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Sept 2023, 10:09:02 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
