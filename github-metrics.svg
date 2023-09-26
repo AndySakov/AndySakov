@@ -1783,7 +1783,7 @@ Godwin backend</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 360k out of 120m users</span>
+                                    <span class="gh">ranked 360k out of 119m users</span>
                                 </div>
                                 <div class="text">Published 67 public repositories</div>
                             </div>
@@ -2033,7 +2033,7 @@ Godwin backend</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Sept 2023, 19:11:11 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2023, 20:07:07 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
