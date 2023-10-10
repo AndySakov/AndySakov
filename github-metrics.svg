@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1069" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1299" class="columns">
     <defs>
         <style/>
     </defs>
@@ -244,12 +244,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 32 commits)</small>
+                    <small class="h-details">(computed from last 33 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 39.0 characters per line of code written</li>
+                        <li>Has approximately 37.2 characters per line of code written</li>
                         <li>Mostly pushes code around 12:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -1348,7 +1348,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        36
+                                        37
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1534,6 +1534,169 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">feat/models-sync</span>
+                                        in
+                                        <span class="repo">jobstash/middleware</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 59 commits in
+                                        <span class="repo">jobstash/middleware</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/models-sync</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#84c3fd3</div>
+                                        <div class="message">fix: fixed projects list interface</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f94dd23</div>
+                                        <div class="message">chore(release): 1.37.12 [skip ci]
+
+## [1.37.12](https://github.com/jobstash/middleware/compare/v1.37.11...v1.37.12) (2023-10-03)
+
+### Bug Fixes
+
+* **projects:** fixed some bugs on projects ([b42a3ab](https://github.com/jobstash/middleware/commit/b42a3ab9acb7f19153b276bbe226503a2c62f90f))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b42a3ab</div>
+                                        <div class="message">fix(projects): fixed some bugs on projects</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb63e1b</div>
+                                        <div class="message">chore(release): 1.37.11 [skip ci]
+
+## [1.37.11](https://github.com/jobstash/middleware/compare/v1.37.10...v1.37.11) (2023-10-03)
+
+### Bug Fixes
+
+* fixed some interface bugs ([8074f54](https://github.com/jobstash/middleware/commit/8074f544a50cbbaf29727d5c99ba704960cf6d46))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8074f54</div>
+                                        <div class="message">fix: fixed some interface bugs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6388a78</div>
+                                        <div class="message">chore(release): 1.37.10 [skip ci]
+
+## [1.37.10](https://github.com/jobstash/middleware/compare/v1.37.9...v1.37.10) (2023-10-02)
+
+### Bug Fixes
+
+* **models:** refactored models to follow new query structure and fixed some bugs ([081f83f](https://github.com/jobstash/middleware/commit/081f83f10e19683fa91ff35609f603c91d6f7050))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#081f83f</div>
+                                        <div class="message">fix(models): refactored models to follow new query structure and fixed some bugs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f989530</div>
+                                        <div class="message">chore(release): 1.37.9 [skip ci]
+
+## [1.37.9](https://github.com/jobstash/middleware/compare/v1.37.8...v1.37.9) (2023-10-02)
+
+### Bug Fixes
+
+* **techs:** fixed issues with tech queries and service calls ([03b66c3](https://github.com/jobstash/middleware/commit/03b66c356d6f348cac0c11eddeefce417611fe89))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03b66c3</div>
+                                        <div class="message">fix(techs): fixed issues with tech queries and service calls</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f825759</div>
+                                        <div class="message">chore(release): 1.37.8 [skip ci]
+
+## [1.37.8](https://github.com/jobstash/middleware/compare/v1.37.7...v1.37.8) (2023-09-29)
+
+### Bug Fixes
+
+* **jobs:** fixed issues with jobs endpoints queries ([715c34c](https://github.com/jobstash/middleware/commit/715c34c6c3f3e9929c9cfc4087ef5a50e7ea846a))
+* **projects:** fixed issues with projects queries ([86129af](https://github.com/jobstash/middleware/commit/86129af6770ebc1dbd46cfca047ce7577a773078))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86129af</div>
+                                        <div class="message">fix(projects): fixed issues with projects queries</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#715c34c</div>
+                                        <div class="message">fix(jobs): fixed issues with jobs endpoints queries</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5906043</div>
+                                        <div class="message">models sync wip contd. (again)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ae4148</div>
+                                        <div class="message">models sync wip contd.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d67c5c8</div>
+                                        <div class="message">models sync wip</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bcb9d9</div>
+                                        <div class="message">chore(release): 1.37.7 [skip ci]
+
+## [1.37.7](https://github.com/jobstash/middleware/compare/v1.37.6...v1.37.7) (2023-09-25)
+
+### Bug Fixes
+
+* add return clause for paired terms endpoint ([cd9a711](https://github.com/jobstash/middleware/commit/cd9a71142e350c7df6ad8653c19f190000f7f329))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd9a711</div>
+                                        <div class="message">fix: add return clause for paired terms endpoint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab8b92e</div>
+                                        <div class="message">chore(release): 1.37.6 [skip ci]
+
+## [1.37.6](https://github.com/jobstash/middleware/compare/v1.37.5...v1.37.6) (2023-09-25)
+
+### Bug Fixes
+
+* **technologies:** fixed create paired terms bug ([e954149](https://github.com/jobstash/middleware/commit/e95414943e5aa2de5c509c4b36a1388248c35ee9))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e954149</div>
+                                        <div class="message">fix(technologies): fixed create paired terms bug
+
+CLOSES JOB-509</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0be2afe</div>
+                                        <div class="message">chore(release): 1.37.5 [skip ci]
+
+## [1.37.5](https://github.com/jobstash/middleware/compare/v1.37.4...v1.37.5) (2023-09-25)
+
+### Bug Fixes
+
+* **technologies:** fixed bugs in create blocked and paired terms endpoints ([098704b](https://github.com/jobstash/middleware/commit/098704bfec3202292d6673b58e14e119ba6076c5))</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1608,46 +1771,6 @@ FIXES JOB-511</div>
                                     <div class="commit">
                                         <div class="sha">#2c57e9b</div>
                                         <div class="message">fix: removed redundant data from jobs list results</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jobstash/middleware</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7d2054a</div>
-                                        <div class="message">fix: removed redundant investors data</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jobstash/middleware</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9a5cb01</div>
-                                        <div class="message">fix(funding rounds): fixed updatedTimestamp bug</div>
                                     </div>
                                 </div>
                             </section>
@@ -2020,7 +2143,7 @@ FIXES JOB-511</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Oct 2023, 16:09:11 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Oct 2023, 17:10:59 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
