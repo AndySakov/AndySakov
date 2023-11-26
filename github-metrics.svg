@@ -1751,7 +1751,7 @@ fix(projects): refactored link jobs and repos endpoint to prevent duplicate refs
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 371k out of 120m users</span>
+                                    <span class="gh">ranked 371k out of 125m users</span>
                                 </div>
                                 <div class="text">Published 67 public repositories</div>
                             </div>
@@ -2001,7 +2001,7 @@ fix(projects): refactored link jobs and repos endpoint to prevent duplicate refs
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2023, 14:09:10 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Nov 2023, 15:07:15 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
