@@ -1314,7 +1314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>com-lihaoyi/scalasql</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Query SQL databases from Scala via concise, type-safe, and familiar case classes and collection operations</div>
@@ -1982,7 +1982,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2024, 09:11:43 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jan 2024, 10:09:07 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
