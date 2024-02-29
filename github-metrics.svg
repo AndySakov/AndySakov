@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1116" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="1170" class="columns">
     <defs>
         <style/>
     </defs>
@@ -2022,7 +2022,7 @@ GET /users/orgs/{pending|approved} these now return the new org user profile int
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 28 Feb 2024, 11:45:31
+                            On 28 Feb 2024, 13:26:37
                         </div>
                     </section>
                 </div>
@@ -2039,7 +2039,7 @@ GET /users/orgs/{pending|approved} these now return the new org user profile int
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">ee400437</span>
-                            <span class="code">src/shared/entities/org-details-result.entity.ts</span>
+                            <span class="code">src/public/public.service.ts</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -2050,14 +2050,14 @@ GET /users/orgs/{pending|approved} these now return the new org user profile int
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -154,7 +154,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">repos: project?.repos?.map(repo =&gt; ({ ...repo })) ?? [],<br /></span><span class="token prefix unchanged">·</span><span class="token line">investors:<br /></span><span class="token prefix unchanged">·</span><span class="token line">  project?.investors ??<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  organization?.investors.map(investor =&gt; ({<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  organization?.investors?.map(investor =&gt; ({<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    id: investor.id,<br /></span><span class="token prefix unchanged">·</span><span class="token line">    name: investor.name,<br /></span><span class="token prefix unchanged">·</span><span class="token line">  })) ??</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -59,7 +59,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">docs: [(organization)-[:HAS_DOCSITE]-&gt;(docsite) | docsite.url][0],<br /></span><span class="token prefix unchanged">·</span><span class="token line">telegram: [(organization)-[:HAS_TELEGRAM]-&gt;(telegram) | telegram.username][0],<br /></span><span class="token prefix unchanged">·</span><span class="token line">github: [(organization)-[:HAS_GITHUB]-&gt;(github) | github.login][0],<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">alias: [(organization)-[:HAS_ORGANIZATION_ALIAS]-&gt;(alias) | alias.name][0],<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">aliases: [(organization)-[:HAS_ORGANIZATION_ALIAS]-&gt;(alias) | alias.name],<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">twitter: [(organization)-[:HAS_TWITTER]-&gt;(twitter) | twitter.username][0],<br /></span><span class="token prefix unchanged">·</span><span class="token line">projects: [<br /></span><span class="token prefix unchanged">·</span><span class="token line">  (organization)-[:HAS_PROJECT]-&gt;(project) | project {</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Feb 2024, 12:07:13 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Feb 2024, 13:15:09 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
