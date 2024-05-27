@@ -1755,7 +1755,7 @@ CLOSES: JOB-628</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 363k out of 135m users</span>
+                                    <span class="gh">ranked 363k out of 137m users</span>
                                 </div>
                                 <div class="text">Published 71 public repositories</div>
                             </div>
@@ -2005,7 +2005,7 @@ CLOSES: JOB-628</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2024, 14:11:18 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2024, 15:08:46 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
