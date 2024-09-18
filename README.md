@@ -11,7 +11,7 @@ I offer robust problem-solving skills as well as proven experience in creating a
 
 I'm an excellent verbal and written communicator with a strong background in cultivating positive relationships and exceeding goals. 
 
-I love languages and culture and have a strong desire to travel the world to meet new people and experience new things. I'm fluent in English and I have A2 proficiency in German, Spanish and Japanese.
+I love languages and culture and have a strong desire to travel the world to meet new people and experience new things. I'm fluent in English and I have A2 proficiency in German and Spanish.
 
 I am always ready to learn new things and acquire new skills to get the job done and, although I'm able to function in capacities relating to Mobile, Web and Backend development, over time, I have found that I do my best work when working on the backend, developing APIs and microservices.
 
@@ -37,7 +37,7 @@ Play Framework • Akka HTTP • Akka Actors • http4s • ZIO • ZIO (HTTP, K
 
 ### Databases
 
-![Neo4j](https://img.shields.io/badge/Neo4j-%234ea94b.svg?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-%234DE1FF.svg?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-%2300f.svg?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-%234DE1FF.svg?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
 ### Frontend Dev
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/nextjs-%23FEFFFF.svg?style=for-the-badge&logo=nextdotjs&logoColor=black) 
