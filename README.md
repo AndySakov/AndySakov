@@ -21,7 +21,7 @@ I am always ready to learn new things and acquire new skills to get the job done
 ## Tech Stack
 
 ### Programming Languages
-![Scala](https://img.shields.io/badge/scala-%23DD0031.svg?style=for-the-badge&logo=scala&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23FF9900.svg?style=for-the-badge&logo=javascript&logoColor=white) ![TS](https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=oracle&logoColor=red) ![Dart](https://img.shields.io/badge/dart-%2300599C.svg?style=for-the-badge&logo=dart&logoColor=black) ![PHP](https://img.shields.io/badge/php-A13BC6?style=for-the-badge&logo=php&logoColor=D0C3D5) 
+![Scala](https://img.shields.io/badge/scala-%23DD0031.svg?style=for-the-badge&logo=scala&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23FF9900.svg?style=for-the-badge&logo=javascript&logoColor=white) ![TS](https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=oracle&logoColor=red) ![Dart](https://img.shields.io/badge/dart-%2300599C.svg?style=for-the-badge&logo=dart&logoColor=black) ![Rust](https://img.shields.io/badge/rust-e74f35?style=for-the-badge&logo=rust&logoColor=D0C3D5) 
 
 ### Scala Libraries
 
