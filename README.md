@@ -37,7 +37,7 @@ Play Framework • Akka HTTP • Akka Actors • http4s • ZIO • ZIO (HTTP, K
 
 ### Databases
 
-![Neo4j](https://img.shields.io/badge/Neo4j-%2300f.svg?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-%234DE1FF.svg?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-%2300599C.svg?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-%234DE1FF.svg?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
 ### Frontend Dev
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/nextjs-%23FEFFFF.svg?style=for-the-badge&logo=nextdotjs&logoColor=black) 
