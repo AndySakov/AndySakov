@@ -1744,7 +1744,7 @@ CLOSES: JOB-775</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 356k out of 143m users</span>
+                                    <span class="gh">ranked 356k out of 147m users</span>
                                 </div>
                                 <div class="text">Published 74 public repositories</div>
                             </div>
@@ -2031,7 +2031,7 @@ CLOSES: JOB-775</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Oct 2024, 09:14:25 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Oct 2024, 10:12:22 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
