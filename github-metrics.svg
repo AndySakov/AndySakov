@@ -1736,7 +1736,7 @@ CLOSES: JOB-909</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 360k out of 153m users</span>
+                                    <span class="gh">ranked 360k out of 151m users</span>
                                 </div>
                                 <div class="text">Published 75 public repositories</div>
                             </div>
@@ -2023,7 +2023,7 @@ CLOSES: JOB-909</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jan 2025, 11:11:40 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jan 2025, 12:09:26 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
