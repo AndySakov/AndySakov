@@ -54,17 +54,3 @@ Play Framework • Akka HTTP • Akka Actors • http4s • ZIO • ZIO (HTTP, K
 ### Big Data
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23FF6C37.svg?style=for-the-badge&logo=apachespark&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-%23E5E5E6.svg?style=for-the-badge&logo=apacheflink&logoColor=E63B74) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%2392E8F9.svg?style=for-the-badge&logo=apachekafka&logoColor=black) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23E5E5E6.svg?style=for-the-badge&logo=rabbitmq&logoColor=F57512)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AndySakov&theme=onedark&no-frame=false&no-bg=false&margin-w=4&margin-h=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-## 📊 Some Stats
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=AndySakov&count_private=true&include_all_commits=true&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndySakov&layout=compact&count_private=true&" />
-  <img align="center" src="/github-metrics.svg" alt="Metrics">
-</div>
