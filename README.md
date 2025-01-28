@@ -5,15 +5,17 @@
 
 ## :brain: About Me
 
-I'm a Software Engineer with 5+ years of experience, passionate about writing good quality, maintainable code using functional programming principles and technologies.
+I'm a Software Engineer with 7+ years of experience, passionate about writing good quality, maintainable code using functional programming principles and technologies.
 
 I offer robust problem-solving skills as well as proven experience in creating and designing software in a test-driven environment and the ability to leverage full-stack expertise to build interactive and user-centred product designs to scale. 
 
 I'm an excellent verbal and written communicator with a strong background in cultivating positive relationships and exceeding goals. 
 
-I love languages and culture and have a strong desire to travel the world to meet new people and experience new things. I'm fluent in English and I have A2 proficiency in German and Spanish.
+I love languages and culture and have a strong desire to travel the world to meet new people and experience new things. I'm fluent in English and I have B1 proficiency in German and A2 proficiency in Spanish.
 
 I am always ready to learn new things and acquire new skills to get the job done and, although I'm able to function in capacities relating to Mobile, Web and Backend development, over time, I have found that I do my best work when working on the backend, developing APIs and microservices.
+
+More recently, I have developed an interest in smart contract development in solidity with a focus on security research. When I'm not actively working on building web2 projects, you can find me participating in web3 focused hackathons or completing CTFs and claiming bounties.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/obafemiteminife) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/obafemiteminife) [![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?logo=Instagram&logoColor=white)](https://instagram.com/andysakov) 
@@ -21,7 +23,7 @@ I am always ready to learn new things and acquire new skills to get the job done
 ## Tech Stack
 
 ### Programming Languages
-![Scala](https://img.shields.io/badge/scala-%23DD0031.svg?style=for-the-badge&logo=scala&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23FF9900.svg?style=for-the-badge&logo=javascript&logoColor=white) ![TS](https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=oracle&logoColor=red) ![Dart](https://img.shields.io/badge/dart-%2300599C.svg?style=for-the-badge&logo=dart&logoColor=black) ![Rust](https://img.shields.io/badge/rust-e74f35?style=for-the-badge&logo=rust&logoColor=D0C3D5) 
+![Scala](https://img.shields.io/badge/scala-%23DD0031.svg?style=for-the-badge&logo=scala&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23FF9900.svg?style=for-the-badge&logo=javascript&logoColor=white) ![TS](https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=oracle&logoColor=red) ![Dart](https://img.shields.io/badge/dart-%2300599C.svg?style=for-the-badge&logo=dart&logoColor=black) ![Rust](https://img.shields.io/badge/rust-e74f35?style=for-the-badge&logo=rust&logoColor=D0C3D5) ![Solidity](https://img.shields.io/badge/solidity-%23430098?style=for-the-badge&logo=solidity&logoColor=blue)
 
 ### Scala Libraries
 
