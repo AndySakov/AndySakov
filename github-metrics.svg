@@ -1681,10 +1681,10 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">0c11554b</span>
-                            <span class="code">src/shared/interfaces/response.interface.ts</span>
+                            <span class="code">src/user/user.controller.ts</span>
                             <span class="code">
-                                <span class="snippet additions">++2</span>
-                                <span class="snippet deletions">--2</span>
+                                <span class="snippet additions">++4</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -1692,14 +1692,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -31,5 +31,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> error: string;<br /></span><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">export const data = &lt;X&gt;(value: Response&lt;X&gt; | ResponseWithNoData): X | null =&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line"> (value as Response&lt;X&gt;)?.data;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">export const data = &lt;X&gt;(value: ResponseWithOptionalData&lt;X&gt;): X | null =&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line"> (value as Response&lt;X&gt;)?.data ?? null;</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -100,7 +100,10 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">): Promise&lt;ResponseWithOptionalData&lt;string&gt;&gt; {<br /></span><span class="token prefix unchanged">·</span><span class="token line">  this.logger.log(`/users/signup ${address}, ${JSON.stringify(body)}`);<br /></span><span class="token prefix unchanged">·</span><span class="token line">  const hasOwner = await this.userService.orgHasOwner(body.orgId);<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  if (!hasOwner) {<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  const owner = data(<br /></span><span class="token prefix inserted">+</span><span class="token line">    await this.userService.findOrgOwnerProfileByOrgId(body.orgId),<br /></span><span class="token prefix inserted">+</span><span class="token line">  );<br /></span><span class="token prefix inserted">+</span><span class="token line">  if (!hasOwner || owner?.wallet === address) {<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    const verifications =<br /></span><span class="token prefix unchanged">·</span><span class="token line">      data(await this.profileService.getUserVerifications(address)) ?? [];<br /></span><span class="token prefix unchanged">·</span><span class="token line">    const verified = verifications.find(</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 May 2025, 14:19:56 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 May 2025, 15:10:22 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
