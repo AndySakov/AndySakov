@@ -1,25 +1,3 @@
-# Hi there 👋, I'm Obafemi Teminifeoluwa.
-
-[![wakatime](https://wakatime.com/badge/user/d6e0b2a7-8833-4f8a-b4e6-9fd15c4135a4/project/b45a0b01-e180-4d4b-81e6-a96db028b5e6.svg)](https://wakatime.com/badge/user/d6e0b2a7-8833-4f8a-b4e6-9fd15c4135a4/project/b45a0b01-e180-4d4b-81e6-a96db028b5e6)
-[![Profile Visits](https://visitcount.itsvg.in/api?id=AndySakov&icon=5&color=1)](https://visitcount.itsvg.in)
-
-## :brain: About Me
-
-I'm a Software Engineer with 7+ years of experience, passionate about writing good quality, maintainable code using functional programming principles and technologies.
-
-I offer robust problem-solving skills as well as proven experience in creating and designing software in a test-driven environment and the ability to leverage full-stack expertise to build interactive and user-centred product designs to scale. 
-
-I'm an excellent verbal and written communicator with a strong background in cultivating positive relationships and exceeding goals. 
-
-I love languages and culture and have a strong desire to travel the world to meet new people and experience new things. I'm fluent in English and I have B1 proficiency in German and A2 proficiency in Spanish.
-
-I am always ready to learn new things and acquire new skills to get the job done and, although I'm able to function in capacities relating to Mobile, Web and Backend development, over time, I have found that I do my best work when working on the backend, developing APIs and microservices.
-
-More recently, I have developed an interest in smart contract development in solidity with a focus on security research. When I'm not actively working on building web2 projects, you can find me participating in web3 focused hackathons or completing CTFs and claiming bounties.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/obafemiteminife) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/obafemiteminife) [![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?logo=Instagram&logoColor=white)](https://instagram.com/andysakov) 
-
 ## Tech Stack
 
 ### Programming Languages
