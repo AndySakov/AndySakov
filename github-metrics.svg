@@ -1448,7 +1448,7 @@
                                         <span>starred Jul 17 2023</span>
                                     </div>
                                 </div>
-                                <div class="field description">Object-Graph-Mapping neo4j framework, Fully-typed with TypeScript, for easy and flexible node and relationship operations</div>
+                                <div class="field description">Define models with decorators, run fully type-safe queries against them, eager load relationships in a single trip, and let TypeScript catch your mistakes before Neo4j does</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1549,7 +1549,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2026, 19:49:29 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jul 2026, 20:59:35 (timezone Africa/Lagos) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
